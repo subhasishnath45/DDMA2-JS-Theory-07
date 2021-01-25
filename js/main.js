@@ -9,7 +9,7 @@
 // }
 
 function greet_user(user){
-    console.log('Hi ' + user.name + ', how are you?');
+    console.log('Hi ' + user.name + ', how are you doing?');
 }
 
 User = {
